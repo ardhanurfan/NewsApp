@@ -1,6 +1,6 @@
 # NewsApp
 News mobile application. This application uses the API from newsapi.org. From the provided API, get it using Retrofit to display it in the form of a news list.
-You can get this api from
+You can get this api from </br>
 ``` https://newsapi.org/ ``` </br>
 </br>
 <p float="left">
